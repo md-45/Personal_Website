@@ -3,3 +3,5 @@ Self-Paced Program in 2022. I used HTML, CSS, and JavaScript for this website,
 and incorporated some of my personal projects into it, as a sort of portfolio.
 I integrated a GIF, embedded a Spotify playlist, and programmed scrolling text,
 which was outside of the scope of the assignment.
+
+Here is the link: https://merina-ds-personal-website--md-4516.replit.app/index.html
